@@ -8,7 +8,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "images.g.jres",
+        "images.g.jres"
     ],
     "targetVersions": {
         "target": "1.12.24",
