@@ -9,7 +9,6 @@
         "main.blocks",
         "main.ts",
         "images.g.jres",
-        "images.g.ts"
     ],
     "targetVersions": {
         "target": "1.12.24",
