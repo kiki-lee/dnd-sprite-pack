@@ -1,6 +1,6 @@
 {
     "name": "dnd-sprite-pack",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "An asset pack for MakeCode Arcade",
     "dependencies": {
         "device": "*"
